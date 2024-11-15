@@ -15,7 +15,7 @@ with open(os.path.join(here, "pytube", "version.py")) as fp:
 
 setup(
     name="pytube-cypher-fix",
-    version="15.0.1",  # noqa: F821
+    version="15.0.2",  # noqa: F821
     author="Shourya",
     author_email="hey@pytube.io",
     packages=["pytube", "pytube.contrib"],
