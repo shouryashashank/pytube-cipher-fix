@@ -1,5 +1,6 @@
 ### fix to cipher issue in pytube.
-
+### Added fix for other client replated issues, 
+### this will resolve some issues related to pytube but is not activly maintained. Try to switch to https://github.com/yt-dlp/yt-dlp if possible
 <div align="center">
   <p>
     <a href="#"><img src="https://assets.nickficano.com/gh-pytube.min.svg" width="456" height="143" alt="pytube logo" /></a>
